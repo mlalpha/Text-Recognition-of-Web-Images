@@ -71,6 +71,15 @@
 
 ## Software
 ### Framework
+* Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
+* Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
+  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
+* Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
+* Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
+  * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
+* MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
+* MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
+* Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
 
 ### Applications
 
