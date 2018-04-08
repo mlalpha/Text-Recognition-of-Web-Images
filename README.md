@@ -63,5 +63,3 @@ All images corresponding to the [image file name].txt are put in a zip compressi
 
   We will rank the results according to the total matching and Levenshtein distance respectively, but the final awards is assigned according to the ranking of Levenshtein distance.
 
-## 5. Past Reference
-*无痛的机器学习 [[Web](https://zhuanlan.zhihu.com/hsmyy)]
