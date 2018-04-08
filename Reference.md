@@ -15,6 +15,7 @@
 
 ### Text Detection
 * TextBoxes: A Fast Text Detector with a Single Deep Neural Network [[Paper](https://arxiv.org/abs/1611.06779)]
+* Deep Scene Text Detection with Connected Component Proposals [[Paper](https://arxiv.org/pdf/1708.05133.pdf)]
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
