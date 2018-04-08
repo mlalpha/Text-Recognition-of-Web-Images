@@ -85,4 +85,13 @@
 
 ## Tutorials
 
+*无痛的机器学习 [[Web](https://zhuanlan.zhihu.com/hsmyy)]
+
+*非极大值抑制 [[Web](http://noahsnail.com/2017/12/13/2017-12-13-%E9%9D%9E%E6%9E%81%E5%A4%A7%E5%80%BC%E6%8A%91%E5%88%B6(Non-Maximum%20Suppression)]
+
+*Sequence Modeling With CTC [[Web](https://distill.pub/2017/ctc/)]
+
+*Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning [[Web](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)]
+
+
 ## Blogs
