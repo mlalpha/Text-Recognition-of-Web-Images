@@ -13,6 +13,9 @@
 
 ## Papers
 
+### Text Detection
+* TextBoxes: A Fast Text Detector with a Single Deep Neural Network [[Paper](https://arxiv.org/abs/1611.06779)]
+
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
@@ -64,9 +67,6 @@
   * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 * AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
   * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
-
-## Papers
-* TextBoxes: A Fast Text Detector with a Single Deep Neural Network [[Paper](https://arxiv.org/abs/1611.06779)]
 
 ## Videos
 
