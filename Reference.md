@@ -13,6 +13,10 @@
 
 ## Papers
 
+### Text Detection
+* TextBoxes: A Fast Text Detector with a Single Deep Neural Network [[Paper](https://arxiv.org/abs/1611.06779)]
+* Deep Scene Text Detection with Connected Component Proposals [[Paper](https://arxiv.org/pdf/1708.05133.pdf)]
+
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
@@ -65,8 +69,6 @@
 * AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
   * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
 
-## Papers
-
 ## Videos
 
 ## Software
@@ -84,5 +86,14 @@
 ### Applications
 
 ## Tutorials
+
+* 无痛的机器学习 [[Web](https://zhuanlan.zhihu.com/hsmyy)]
+
+* 非极大值抑制 [[Web](http://noahsnail.com/2017/12/13/2017-12-13-%E9%9D%9E%E6%9E%81%E5%A4%A7%E5%80%BC%E6%8A%91%E5%88%B6(Non-Maximum%20Suppression))]
+
+* Sequence Modeling With CTC [[Web](https://distill.pub/2017/ctc/)]
+
+* Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning [[Web](http://noahsnail.com/2017/12/13/2017-12-13-%E9%9D%9E%E6%9E%81%E5%A4%A7%E5%80%BC%E6%8A%91%E5%88%B6(Non-Maximum%20Suppression)/)]
+
 
 ## Blogs
